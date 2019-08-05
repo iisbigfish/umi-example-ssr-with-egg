@@ -1,58 +1,58 @@
 {
   "/": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/discover": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/home": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/news/:id": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/order": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/profile": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   },
   "/shop": {
     "js": [
-      "umi.8032478a.js"
+      "umi.af060341.js"
     ],
     "css": [
-      "umi.8b1ce643.css"
+      "umi.1608bce4.css"
     ]
   }
 }
